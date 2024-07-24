@@ -4,7 +4,8 @@ Banks earn a major revenue from lending loans. But it is often associated with r
 
 ## Objective:
 -Understand the dataset & Preprocessing data.
-
+-Applying statistical methods and clustering analysis to derive valuable insights.
+-Handling the imbalanced dataset.
 -Comparative analysing about efficient of many types of The classifier models to predict whether the loan borrower will default or not. Also fine-tune the hyperparameters & compare the evaluation metrics of vaious classification algorithms.
 
  
